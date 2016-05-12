@@ -1,0 +1,11 @@
+	body {
+		height: 90%;
+		background: -webkit-linear-gradient,(#EBD6FF,#CC99FF ); 
+		background: -o-linear-gradient(#EBD6FF,#CC99FF ); 
+		background: -moz-linear-gradient(#EBD6FF,#CC99FF ); 
+		background: linear-gradient(#EBD6FF,#CC99FF ); 
+
+		margin-left: 3cm;
+		margin-right: 3cm;
+		margin-bottom: 3cm;
+	}
